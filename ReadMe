@@ -1,4 +1,4 @@
-Hello, Welcome to F-tech Online Store.
+Hello, Welcome to Cyber corner Online Store.
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
@@ -13,30 +13,9 @@ Here we will show how to run this system on your pc.
 - Install xampp and then move this code file under htdocs in xampp.
 
 
-    Login as Admin
-      gmail - mega@gmail.com
-	  password - mega
-- So, you can now start using this program. 
- 
-For customer
-    gmail - kyaw@gmail.com
-    password - kyaw
-
-For customer paypal account -> mara@personal.example.com
-       pass      -> j<JI33v?
 
 
-For admin Paypal account -> megahito@gmail.com
-       pass       -> megahito
-
-
-For admin account -> mega@gmail.com
-      pass        -> mega
-
-
-
-
-DON'T FORGET TO CREATE A DATABASE NAMING "f-tech.sql" AND IMPORT THE SQL FILE AND RUN.
+DON'T FORGET TO CREATE A DATABASE NAMING "example.sql" AND IMPORT THE SQL FILE AND RUN.
 WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 
 	   #Enjoy	
